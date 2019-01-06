@@ -1,0 +1,69 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img1 {
+    position: absolute;
+    top: 150px;
+    left: 50px;
+    width: 5%;
+}
+
+.img2 {
+    position: absolute;
+    top: 250px;
+    left: 50px;
+    width: 5%;
+}
+
+.img3 {
+    position: absolute;
+    top: 350px;
+    left: 50px;
+    width: 5%
+}
+
+.img4 {
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    width: 5%;
+}
+
+.img5 {
+    position: absolute;
+    top: 550px;
+    left: 50px;
+    width: 5%;
+}
+
+.vl {
+    height: 500px;
+    margin-left: 1212px;
+}
+
+.race-track {
+    background-image: url(img/bg-image.png);
+    margin-left: 10px;
+
+}
+
+button {
+    padding: 5px;
+    margin: 5px;
+    margin-left: 700px;
+}
+
+.div-results {
+    margin: auto;
+    position: relative;
+    border: 1px solid black;
+    padding: 10px;
+    width: 200px;
+    margin-top: 10px;
+}
